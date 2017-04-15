@@ -39,12 +39,12 @@ projects[entityreference] = 1.2
 projects[entity] = 1.8
 projects[ctools] = 1.12
 projects[token] = 1.7
-projects[views] = 3.15
+projects[views] = 3.16
 ; Events
-projects[date] = 2.9
+projects[date] = 2.10
 projects[link] = 1.4
 ; Photos
-projects[colorbox] = 2.12
+projects[colorbox] = 2.13
 projects[libraries] = 2.3
 
 ;Distribution Custom
