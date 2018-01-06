@@ -35,11 +35,11 @@ api = 2
 ;Contrib
 projects[features] = 2.10
 projects[pathauto] = 1.3
-projects[entityreference] = 1.4
+projects[entityreference] = 1.5
 projects[entity] = 1.8
 projects[ctools] = 1.12
 projects[token] = 1.7
-projects[views] = 3.16
+projects[views] = 3.18
 ; Events
 projects[date] = 2.10
 projects[link] = 1.4
@@ -50,7 +50,7 @@ projects[libraries] = 2.3
 ;Distribution Custom
 projects[pushtape_ui] = 1.0
 projects[pushtape_player] = 1.1
-projects[pushtape_services] = 1.0
+projects[pushtape_services] = 1.1
 ; Distribution Features
 projects[pushtape_discography] = 1.0
 projects[pushtape_admin] = 1.0
